@@ -12,7 +12,7 @@
   "WEI_COST": 20000000000000000000,
   "DISPLAY_COST": 20,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "",
-  "MARKETPLACE_LINK": "",
+  "MARKETPLACE": "oasis-nft",
+  "MARKETPLACE_LINK": "https://oasis-nft.dog/",
   "SHOW_BACKGROUND": true
 }
